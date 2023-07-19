@@ -26,14 +26,12 @@
 
 #### Server
 <div align="left">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat&logo=Apache&logoColor=white" />
 </div>
 
 #### Database
 <div align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
